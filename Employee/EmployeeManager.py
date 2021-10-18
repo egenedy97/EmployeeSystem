@@ -1,5 +1,4 @@
-from .Employee import Employee
-
+from .employee import Employee
 class EmployeeManager :
     def __init__(self):
         self.employees =[]
